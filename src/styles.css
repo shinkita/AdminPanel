@@ -1,0 +1,10 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.create-btn{
+    cursor: pointer;
+}
+.text-base{
+    color:#9C27B0;
+}
